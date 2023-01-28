@@ -1,4 +1,13 @@
-﻿USE ARENA 
+/* 
+Arena SQL Data Exploration 
+Skills used: SET Operators,Joins, CTE's, Temp Tables, Creating Views, Converting Data Types, Pivot & Unpivot
+-Advanced Subqueries Concepts
+-Aggregate Window Functions
+-Ranking Window Functions: RANK, DENSE-RANK, and ROW_NUMBER
+-Positional Window Functions: LEAD, LAG, LAST_VALUE and FIRST_VALUE
+*/
+
+USE ARENA 
 GO
 
 
