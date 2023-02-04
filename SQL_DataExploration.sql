@@ -1,5 +1,5 @@
 /* 
-Arena SQL Data Exploration 
+Arena SQL Data Exploration, Online Gaming Company Analysis
 Skills used: SET Operators,Joins, CTE's, Temp Tables, Creating Views, Converting Data Types, Pivot & Unpivot
 -Advanced Subqueries Concepts
 -Aggregate Window Functions
